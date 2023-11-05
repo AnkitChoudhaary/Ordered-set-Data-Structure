@@ -34,7 +34,7 @@ Explore this library to understand how to manage multiple sets efficiently in C+
   ```
 3 {set num} {data}
 ```
-#### 4. Union O(m+n)
+#### 4. Union 
  To take the union of two sets, use the Union command {Output stores to set num1}:
   ```
 4 {set num1} {set num2}
