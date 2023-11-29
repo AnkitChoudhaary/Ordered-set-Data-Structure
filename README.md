@@ -84,15 +84,15 @@ Here's an overview of the time complexity of the functions in the custom Set lib
 
 | Function              | Time Complexity |
 |-----------------------|-----------------|
-| Insert                | Θ(log n)        |
-| Delete                | Θ(log n)        |
-| Belongs To            | Θ(log n)        |
-| Union                 | Θ(n)            |
-| Intersection          | Θ(n)            |
-| Size                  | Θ(1)            |
-| Difference            | Θ(n)            |
-| Symmetric Difference  | Θ(n)            |
-| Print                 | Θ(n)            |
+| Insert                | O(log n)        |
+| Delete                | O(log n)        |
+| Belongs To            | O(log n)        |
+| Union                 | O(n)            |
+| Intersection          | O(n)            |
+| Size                  | O(1)            |
+| Difference            | O(n)            |
+| Symmetric Difference  | O(n)            |
+| Print                 | O(n)            |
 
 
 P.S.: This is just a simple project to show how all the big projects use simple data structures to get a fascinating Data Structures :).<br/>
